@@ -1,23 +1,16 @@
 # 🔐 Security Lab
 
-این ریپازیتوری برای ذخیره‌سازی اسکریپت‌ها، ابزارها و یادداشت‌های مربوط به امنیت سایبری هست.
+English: This repository contains cybersecurity scripts, tools, and notes I'm learning.  
+فارسی: این ریپازیتوری برای ذخیره‌سازی اسکریپت‌ها، ابزارها و یادداشت‌های مربوط به امنیت سایبری هست.
 
 ---
 
-## 📁 اسکریپت‌های فعلی
+## 📁 Current Scripts / اسکریپت‌های فعلی
 
-### 1. اسکنر پینگ (ping_scanner.py)
-یک اسکریپت ساده که با پینگ کردن، وضعیت آنلاین/آفلاین دستگاه‌های شبکه رو بررسی می‌کنه.
+### 1. Ping Scanner (ping_scanner.py)
+English: A simple script to check if a device is online/offline on the network.  
+فارسی: یک اسکریپت ساده که با پینگ کردن، وضعیت آنلاین/آفلاین دستگاه‌های شبکه رو بررسی می‌کنه.
 
-چطور اجراش کنم؟
+How to run / چطور اجراش کنم؟
 `bash
 python3 ping_scanner.py
-
-
-مثال:
-chand adad ip mikhay scan koni ??? 2
-ip 1 ra vared kon 8.8.8.8
-8.8.8.8!!! online ast
-ip 2 ra vared kon 192.168.1.100
-192.168.1.100!!! offline ast
-scan tamam shud!!!
